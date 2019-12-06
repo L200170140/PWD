@@ -1,0 +1,20 @@
+body
+{
+background:rgb(128,128,128)
+}
+h1
+{font-family:monospace;
+background-color:rgb(192,192,192);
+}
+table
+{font-family:Cambria;
+background:rgb(144,238,144)
+}
+.td {
+font-weight:bold;
+}
+.dashed
+{
+border-style:dashed;
+border-color:rgb(255, 192, 221);
+}
